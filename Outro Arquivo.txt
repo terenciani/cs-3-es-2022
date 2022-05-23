@@ -1,3 +1,6 @@
 Olá estou na branch de dev
 
 Precisei fazer uma alteração
+
+
+Fiz mais alterações, validei e terminei a funcionalidade de usuários
